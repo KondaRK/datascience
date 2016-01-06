@@ -1,2 +1,2 @@
-# datascience
-Courser Data Scientist Course
+# data science
+Coursera Data Scientist Course
